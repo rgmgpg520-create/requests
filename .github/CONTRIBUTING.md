@@ -54,6 +54,10 @@ Please be aware of the following things when filing bug reports:
    fix your problem. If we ask you to clarify these and you never respond, we
    will close your issue without fixing it.
 
+4. If you believe you have found a security vulnerability, **do not open a
+   public issue.**关注[SECURITY.md](/.github/SECURITY.md) and use GitHub's
+   private Draft Security Advisory flow so the report is not disclosed publicly.
+
 ## Good Pull Requests
 
 1. Avoid raising duplicate pull requests. *Please* use the GitHub pull request
